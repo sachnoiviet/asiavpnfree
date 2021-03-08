@@ -7,3 +7,5 @@ include:
   - asiavpn_privacy_policy.md
   - README.md
   - LICENSE.md
+
+theme: jekyll-theme-minimal
