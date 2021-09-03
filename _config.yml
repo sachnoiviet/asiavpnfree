@@ -1,1 +1,12 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: false
+  collections: false
+include:
+  - asiavpn_privacy_policy.md
+  - index.md
+  - README.md
+  - LICENSE.md
+
 theme: jekyll-theme-hacker
