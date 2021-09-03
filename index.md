@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Privacy Policy For Asia VPN - Unlimited and Fast
 
-You can use the [editor on GitHub](https://github.com/sachnoiviet/asiavpnfree/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+ 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<b>Asia VPN - Unlimited and Fast</b> App receives or collects information when we provide our services, including when you install, access or use our services.
 
-### Markdown
+## Information Collection and Use
+ 
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The information that I request will be retained on your device and is not collected by me in any way.
 
-```markdown
-Syntax highlighted code block
+The app does use third party services that may collect information used to identify you.
 
-# Header 1
-## Header 2
-### Header 3
+Link to privacy policy of third party service providers used by the app
 
-- Bulleted
-- List
+* Google Play Services
 
-1. Numbered
-2. List
+* Firebase Analytics
 
-**Bold** and _Italic_ and `Code` text
+## Log Data
 
-[Link](url) and ![Image](src)
-```
+I want to inform you that whenever you use my Service, in a case of an error in the app
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+I collect data and information (through third party products) on your phone called Log Data.
 
-### Jekyll Themes
+This Log Data may include information such as your device Internet Protocol (IP) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sachnoiviet/asiavpnfree/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Security
 
-### Support or Contact
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+## Links to Other Sites
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites.
+
+I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+## Changes
+
+Our Privacy Policy may Change from time to time. We will post any privacy policy changes on this page and if the changes are significant, We will provide a more prominent notice.
+
+## Contact Us:
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us at <viaudiobooks@gmail.com>.
